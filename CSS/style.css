@@ -1,0 +1,27 @@
+*{
+  margin: 3x;
+}
+
+h1{
+  border: 1px black;
+  background-color: blueviolet;
+  color: white;
+  font-size: 50px;
+}
+span{
+  color: black
+}
+h2{
+  text-align: center;
+  background-color: blueviolet;
+  color: white;
+  font-style:italic;
+  font-size: 40px;
+}
+h3{
+  text-align: end;
+  background-color: blueviolet;
+  text-decoration: underline;
+  color: blue;
+
+}
