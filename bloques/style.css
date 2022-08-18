@@ -1,27 +1,30 @@
-.ola {
+h2 {
+    text-align: center;
+}
+.fila1 {
     display: block;
     display: flex;
-    background-color: rgb(190, 0, 190);
+    background-color: skyblue;
 
     padding: 5px;
     margin: 20px; 
     align-items: center;
     justify-content: space-evenly;
 }
-.alo{
+.fila2{
     display: block;
     display: flex;
-    background-color: rgb(255, 166, 0);
+    background-color: palevioletred;
 
     padding: 5px;
     margin: 20px; 
     align-items: center;
     justify-content: space-evenly;
 }
-.hola{
+.fila3{
     display: block;
     display: flex;
-    background-color: rgb(255, 0, 0);
+    background-color: rgb(255,255,255);
 
     padding: 5px;
     margin: 20px; 
