@@ -1,0 +1,310 @@
+.nav {
+    background-color: #333333;
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav-title {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    padding-left: 40px;
+    width: 40px;
+}
+
+.nav-links {
+
+    list-style: none;
+    color: #FFFFFF;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 600px;
+    margin-right: 40px;
+}
+
+.nav-links li a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+
+body {
+    height: 1000px;
+
+}
+
+
+
+.active {
+    color: #FFFFFF;
+    font-weight: bolder;
+}
+
+.btn {
+
+    color: white;
+    display: block;
+    background-color: #17A2B8;
+    border: 3px solid black;
+    font-family: 'Roboto', sans-serif;
+    width: 130px;
+    height: 30px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    font-size: large;
+    box-shadow: 5px 5px 5px black;
+
+}
+
+
+
+
+
+.container {
+    width: 450px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    margin-top: 40px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.card-header {
+    background-color: #17A2B8;
+    height: 80px;
+    border-radius: 3px;
+}
+
+.card-body {
+    height: 180px;
+    padding: 15px 30px;
+}
+
+.imgUsuario {
+    width: 70px;
+    height: 70px;
+    border: 2px solid lightgrey;
+    border-radius: 50%;
+    position: relative;
+    top: 40px;
+    left: 30px;
+}
+
+h1 .luciano {
+    margin-bottom: 10px;
+}
+
+h3 {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.icono {
+    width: 10px;
+    margin-top: 0px;
+    margin-right: 10px;
+    color: blue;
+
+}
+
+p {
+    margin-top: 0;
+}
+
+.penlace {
+    margin-top: 10px;
+    color: blue;
+
+}
+
+
+
+.coding {
+    font-family: 'Roboto', sans-serif;
+    width: 450px;
+
+    margin-top: 30px;
+    border: 2px solid grey;
+}
+
+.educ {
+    background-color: #333333;
+    color: #FFFFFF;
+    overflow: hidden;
+    padding-left: 30px;
+}
+
+
+
+
+.bootcamp {
+    text-align: 10px, 10px;
+    padding-left: 30px;
+}
+
+.fechas {
+    color: gray;
+}
+
+
+
+.topcon {
+    font-family: 'Roboto', sans-serif;
+    width: 250px;
+    height: 200px;
+    border: 2px solid gray;
+    border-radius: 3px;
+    margin-left: 30px;
+    margin-top: 40px;
+}
+
+.conectados {
+    background-color: #333333;
+    color: #FFFFFF;
+    height: 40px;
+    padding-top: 20px;
+}
+
+.arriba {
+    padding-left: 10px;
+    display: flex;
+
+
+}
+
+
+.todd{
+    padding-top: 5px;
+    list-style: none;
+
+
+}
+.number2 {
+    border-radius: 55%;
+    width: 25px;
+    border: 1px solid gray;
+    text-align: center;
+    background-color: #CCCCCC;
+    color: black;
+    margin-right: 8px ;
+}
+.number500 {
+    border-radius: 50%;
+    height: 25px;
+    width: 55px;
+    border: 1px solid gray;
+    text-align: center;
+    background-color: #CCCCCC;
+    color: black;
+    margin-right: 8px ;
+}
+
+li {
+    list-style: none;
+    padding-left:none;
+
+}
+
+.fotoTodd {
+    width: 35px;
+    height: 35px;
+    border: 3px solid black;
+    border-radius: 50%;
+    margin-left: 0;
+}
+
+.foto1 {
+    width: 30px;
+    height: 35px;
+    margin-left: 2px;
+}
+
+/*empieza la ultima sección*/
+
+.botcon{
+    width: 250px;
+    height: 250px;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.pie {
+    border: 2px solid gray;
+    width: 246px;
+    height: 30px;
+}
+
+.mara {
+    padding-left: 14px;
+    position: relative;
+    top: 5px;
+}
+
+.main_container {
+    display: flex;
+    justify-content: center;
+}
+
+.son_container2 {
+    margin-left: -50px;
+}
+
+ul.Adrien {
+    padding-left: 15px;
+    padding-right: 20px ;
+    margin-bottom: 0;
+}  
+
+
+ul.todd {
+    padding-left: 15px;
+    padding-right: 20px;
+}  
+
+
+.menos {
+    padding-left: 40px ;
+}
+
+.mas {
+    padding-left: 30px;
+}
+
+.Adrien {
+
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+
+}
+
+span {
+    margin: 0;
+    position: relative;
+    bottom: 15px;
+    padding-left: 15px;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+
+a.span {
+    text-decoration: none;
+}
+
+.Solicitud {
+    border: 2px solid gray;
+
+}
+
+.lico {
+    display: flex;
+
+}
+
+.Adrien li a{
+    text-decoration: none;
+    color: black;
+}
